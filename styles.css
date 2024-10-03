@@ -10,6 +10,13 @@
     font-size: 24px;
 }
 
+.warning {
+    text-align: center;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    color: white;
+    background-color: white;
+}
+
 ul {
     text-align: center;
     color:aqua;
